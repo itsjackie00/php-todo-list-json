@@ -28,5 +28,11 @@
         "title": "Decorazione e Raffreddamento",
         "description": "Immergi la parte superiore di ogni biscotto nel cioccolato fuso, ricoprendolo completamente. Lascia raffreddare i biscotti in frigorifero per almeno 3false minuti prima di servirli.",
         "done": false
+    },
+    {
+        "id": 6,
+        "title": "Decorazione e Raffreddamento",
+        "description": "Prendi un cucchiaio di composto di biscotti e pressalo in uno stampo per muffin o in una piccola",
+        "done": true
     }
 ]
